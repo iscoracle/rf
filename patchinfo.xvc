@@ -1,11 +1,11 @@
 DataTable\Character.edf 20cbfcd60a1a556fbb5f150de19c5b2c7a46ca7b
 DataTable\en-gb\discord.ini f54f3a6f9dd7e764360b1c5e0298200fb02dd607
 DataTable\en-gb\NDCharacter.edf 6edf6c57dfc74551f6a7b0cde7300799ba8a6c9d
-DataTable\en-gb\NDItem.edf d3f0d95fdc46f11111e9e23d3e118d9e2c08b5f7
+DataTable\en-gb\NDItem.edf 1499f43bc58c2ca2ee7a457bab831f86cfe5ec36
 DataTable\en-gb\NDItemCash.edf 6821168eaa157f587a551228057776546f7c87c0
 DataTable\en-gb\NDLanguage.edf 3e8d5b1ef1f480a7fa2d19213bd86609a5c8c0c7
 DataTable\en-gb\NDStore.edf 4504621ae129c2eeb78302a4a8bc84c6dbb2a97c
-DataTable\Item.edf 6ba932440f08f2321b7d3abec05c7500b3e75355
+DataTable\Item.edf 84ebdd0ba2ca666bd84ff55b013c71ac3c866a81
 DataTable\ItemCash.edf fa399352080b07915f5ae38c7f209e4c40a74c07
 DataTable\ItemCombine.edf 91f5a826e1fd6213ff998ba59038fb1c6af02a45
 DataTable\ItemSetEffect.edf 9713614411c66818b0a0a9c58731c8b41768178e
@@ -13,5 +13,5 @@ DataTable\ItemTimer.edf e1cfa679454c134a48db15473cb9c4e605e6682d
 DataTable\Quest.edf 532dddcfbccf72e0061b56b133f72525d5db6ce1
 DataTable\SkillForce.edf 8b45273386a20724ed590be5534cfeafffd26407
 DataTable\Store.edf 3fc99b78897bd0b9e872cba3ba78cfd8428c2d6c
-RF_Online.bin 20189805a8aff83fd69145c68d07058a9287f986
+RF_Online.bin 23eb9a3815e45c5a2d97bbfd36541ac085fca4a5
 SpriteImage\en-gb\loading.spr 3f0c36caca2386249f706c46a115ec77c56858fd
