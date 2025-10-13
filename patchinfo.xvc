@@ -34,7 +34,7 @@ DataTable\en-gb\NDItemCash.edf 591ae70e8ee150237f12622a2f49ee7c0cde2d5c
 DataTable\en-gb\NDLanguage.edf 3e8d5b1ef1f480a7fa2d19213bd86609a5c8c0c7
 DataTable\en-gb\NDMap.edf c6be94de32760a8a3b7e97d38bf2f7dd1207b2ee
 DataTable\en-gb\NDQuest.edf e10b85b2ec0a0ba4193e3cdbfdb73f991cbb5070
-DataTable\en-gb\NDSkillForce.edf ac3d2933f52849b4116e4049002681a4fb2bec94
+DataTable\en-gb\NDSkillForce.edf 63a013494e3c008f723a58042af2765f830a8654
 DataTable\en-gb\NDStore.edf 55b33bfe5143b0d208965ec8dd8ba8b90ea6a79b
 DataTable\Item.edf 6ea82a1e3c029d1d53e3a567a3e07107329c37c5
 DataTable\ItemCash.edf c43488dd534eee44ba6802edb1449ad9fb1a3cb2
@@ -44,7 +44,7 @@ DataTable\ItemSetEffect.edf 3e4f37521f5a2e2d442cbb74e6f210cf18a2b51d
 DataTable\ItemTimer.edf 47e5e669ccf3f8ee6eae22c058537d7f5d4a0d3f
 DataTable\Map.edf 3c43d584403a5c7681abb0cacff8d51d442c8108
 DataTable\Quest.edf 9d71bdfa0c666ac8632f193a4e513bfe8c130e91
-DataTable\SkillForce.edf 512be93a091d1a22b798ec214527488cdeee06f2
+DataTable\SkillForce.edf 25e5b63d218be72f1e961ce8355cc12545cd36a4
 DataTable\Store.edf 60ff383a2353526f7f96eb1806021a5b0254d9e0
 RF_Online.bin 7b1c8d7a9b3fba7456b559986f157610902ff2a3
 SpriteImage\common\item.spr 39958a5eb8fe47adc0997485cd310156b51ab86b
